@@ -1,0 +1,13 @@
+Brooklyn Rimes
+Basic Animation
+3/21/2024
+Create a basic animation 
+
+Before you start coding:
+    Access anaconda.navigator (or download)
+    This should take you to anaconda powershell prompt
+    In anaconda powershell prompt type: pip install pygame 
+        pip install pygame- installs pygame (pip is what pygame uses to install packages)
+    After pygame is installed go to your code editor:
+        in terminal type: import pygame
+            import pygame- imports all available pygame modules into the pygame package
